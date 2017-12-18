@@ -1,0 +1,22 @@
+{
+	"ImportPath": "github.com/Wan-Mi/FilterRoutes",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/eleme/clair/matrix/geo",
+			"Rev": "7c86edf7ee13f22e83bfc76ab27916299448f9d2"
+		},
+		{
+			"ImportPath": "github.com/eleme/clair/matrix/geo/geoutils",
+			"Rev": "7c86edf7ee13f22e83bfc76ab27916299448f9d2"
+		},
+		{
+			"ImportPath": "github.com/eleme/clair/matrix/structure",
+			"Rev": "7c86edf7ee13f22e83bfc76ab27916299448f9d2"
+		}
+	]
+}

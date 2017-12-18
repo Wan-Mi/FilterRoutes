@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/wanmii/filterRoutes/adjust"
+	"github.com/Wan-Mi/FilterRoutes/adjust"
 )
 
 func main() {
